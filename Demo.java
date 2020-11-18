@@ -5,5 +5,9 @@ class Demo
 		//comment
 		//hiii
 	}
+	public void func()
+	{
+	}
+	
 }
 
